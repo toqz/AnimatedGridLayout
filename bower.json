@@ -1,0 +1,25 @@
+{
+  "name": "AnimatedGridLayout",
+  "version": "1.0.0",
+  "homepage": "https://github.com/toqz/AnimatedGridLayout",
+  "authors": [
+    "Manoela Ilic http://tympanus.net"
+  ],
+  "description": "A responsive, magazine-like website layout with a grid item animation effect when opening the content",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "codrops",
+    "animated",
+    "grid",
+    "layout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
